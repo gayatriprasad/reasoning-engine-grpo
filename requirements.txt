@@ -1,0 +1,19 @@
+# Core ML & Data Libraries
+torch
+transformers
+datasets
+accelerate
+
+# Parameter-Efficient Fine-Tuning (PEFT) & Reinforcement Learning
+# Note: Unsloth includes and manages PEFT and TRL.
+# We will install it separately for clarity on its role.
+peft
+trl
+
+# Unsloth for optimized training
+# We will install this from their GitHub repo for the latest version
+unsloth
+
+# Utilities
+tqdm
+wandb
